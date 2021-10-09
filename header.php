@@ -11,8 +11,10 @@
 <header>
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-4">
-                <img src="<?php echo get_template_directory_uri() ?>/assets/img/logo-blanco.png" alt="logo">
+            <div class="my-5 col-4">
+                <a href="<?php  ?>">
+                    <img src="<?php echo get_template_directory_uri() ?>/assets/img/logo-blanco.png" alt="logo">
+                </a>
             </div>
             <div class="col-8">
                 <nav class="d-flex justify-content-end">

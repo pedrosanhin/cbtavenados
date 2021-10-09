@@ -88,3 +88,6 @@ footer p {
 .pagina404-imagen {
   width: 400px;
 }
+.lista-decoracion li a {
+  color: #000;
+}
